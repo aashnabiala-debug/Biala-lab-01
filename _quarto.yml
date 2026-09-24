@@ -12,4 +12,4 @@ format:
     code-fold: true
     code-tools: true
     embed-resources: true
-    theme: cosmo
+    theme: cosmo 
